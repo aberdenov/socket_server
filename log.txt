@@ -1,0 +1,376 @@
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: 9C0kFUc8zKuB/iZ3d9+Nfw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: jpQhv/a8DcpUrrlVaPC2Xw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: OnWUsuqYNi+rzHmd5VUs9g==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: W9bkJWgAmgucuX7KSY1VxA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: fwrUGlLT3ZnrPsRHVU/fxw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: fyI1jf3xQHzUrkTJIR5YfA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: wvgo+5FjwY+Rc8GJwxeU3Q==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: giCPZOo9JBlfPiT+ifKSsg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: /jANhAgXgCB03G72KZChFA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: b64exiBBBiziyX/aLBRvpQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: emvOWM8r9+WXpwHekkEkYw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: k0P6Ohmtv8m21hM9/Fkgng==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: 4zalE6ndzOmbMZhKyeQ5ng==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: NCAk+8/oegNLz02du6NKHQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: elFPiKJ+7utivPE6GJBLsw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: sRfXZ0A/EPANCk+hgzd2mg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: txAVUdN9j4E1pmaxFtQAWw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: wn+qyoTi78/k1Vg0l6Yp3w==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: WR4lt/Cbi/ffRFjAeqLhWw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: XXHhY/pLWrm5WaC5QQgvAA==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: lecZyyWtJWYzuPMjwSmNGg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: CF2CcrA+NDiOI0piIrcLOg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: ZBCfwDMrA1ozTCezUf3bOw==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: ljQ/HgeaoP4o47a18hoimQ==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+GET / HTTP/1.1
+Host: 78.40.108.38:11210
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+Origin: http://injobber.kz
+Sec-WebSocket-Version: 13
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.98 Safari/537.36
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: menupane=30_account-1%3A30_domains-1%3A30_webserver-1%3A30_antispam-1%3A30_tool-1%3A30_stat-1%3A30_srvset-1%3A30_sysstat-1%3A30_integration-1%3A30_set-1%3A30_ext-1%3A30_mgrhelp-0; ispmgrses5=1a7e4463f94b; ispmgrlang5=orion:ru
+Sec-WebSocket-Key: 2PLApo4jp9sCtRg2kp0WFg==
+Sec-WebSocket-Extensions: permessage-deflate; client_max_window_bits
+
+ˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆèˆè

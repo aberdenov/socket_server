@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='UTF-8' />
+</head>
+
+<body>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script language="javascript" type="text/javascript">
+        $(document).ready(function() {
+            var wsUri = "ws://echo.websocket.org";
+            websocket = new WebSocket(wsUri);
+
+            websocket.onopen = function(ev) {
+                $('#message_box').append("<div class=\"system_msg\">Connected!</div>");
+            }
+
+            $('#send-btn').click(function() { 
+            
+            });
+
+            $('#close-btn').click(function() { 
+                websocket.close();
+            });
+
+            websocket.onerror = function(ev) {
+                $('#message_box').append("<div class=\"system_error\">Error Occurred - " + ev.data + "</div>");
+
+                console.log(ev.data);
+            };
+            
+            websocket.onclose = function(ev) {
+                $('#message_box').append("<div class=\"system_msg\">Connection Closed</div>");
+
+                console.log(ev.data);
+            };
+        });
+    </script>
+    <div class="chat_wrapper">
+        <div class="message_box" id="message_box"></div>
+        <div class="panel">
+            <button id="send-btn">Send</button>
+            <button id="close-btn">Close</button>
+        </div>
+    </div>
+</body>
+</html>
